@@ -1,5 +1,5 @@
 # Go Swag
-Need Go (golang) swag for your organization or meetup?  Here is a list of people and companies to contac
+Need Go (golang) swag for your organization or meetup?  Here is a list of people and companies to contact:
 
 ## [Gopher Guides](https://www.gopherguides.com)
 
